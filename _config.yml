@@ -1,0 +1,28 @@
+name: Vid
+favicon: null
+layout_spectrum: 0.06994694704189897
+typography_spectrum: 0.3636549199000001
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9495636220090091
+  lightness: 0.30972765502519906
+  saturation: 0.8313273589592427
+  rhythmicContrast: 0.6886702259071171
+purpose: []
